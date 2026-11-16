@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download ExpressVPN Pro Version](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://bit.ly/4wuHjHm)
+[![Download ExpressVPN Pro Version](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
@@ -160,7 +160,7 @@
 
 <div align="center">
 
-[![Download ExpressVPN Pro Version](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://bit.ly/4wuHjHm)
+[![Download ExpressVPN Pro Version](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
@@ -246,7 +246,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download ExpressVPN Pro Version](https://img.shields.io/badge/Get%20It%20Here-FF6B9D?style=for-the-badge&logo=github)](https://bit.ly/4wuHjHm)
+[![Download ExpressVPN Pro Version](https://img.shields.io/badge/Get%20It%20Here-FF6B9D?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
