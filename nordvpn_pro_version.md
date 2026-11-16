@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download NordVPN Pro Version](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/3R8sqeS)
+[![Download NordVPN Pro Version](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
@@ -81,7 +81,7 @@ NordVPN is one of the best VPN services, but there's a problem:
 
 <div align="center">
 
-[![Download NordVPN Pro Version](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/3R8sqeS)
+[![Download NordVPN Pro Version](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
@@ -170,7 +170,7 @@ NordVPN is one of the best VPN services, but there's a problem:
 
 <div align="center">
 
-[![Download NordVPN Pro Version](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/3R8sqeS)
+[![Download NordVPN Pro Version](https://img.shields.io/badge/Download-00D4FF?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
@@ -257,7 +257,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download NordVPN Pro Version](https://img.shields.io/badge/Get%20It%20Here-00D4FF?style=for-the-badge&logo=github)](https://bit.ly/3R8sqeS)
+[![Download NordVPN Pro Version](https://img.shields.io/badge/Get%20It%20Here-00D4FF?style=for-the-badge&logo=github)](https://share.google/1l3bBlZji08vpyCGM)
 
 </div>
 
